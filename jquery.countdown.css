@@ -1,0 +1,72 @@
+﻿/* jQuery Countdown styles 2.0.0. */
+.is-countdown {
+
+}
+.countdown-rtl {
+	direction: rtl;
+}
+.countdown-holding span {
+	color: #888;
+}
+.countdown-row {
+	clear: both;
+	width: 100%;
+	padding: 0px 2px;
+	text-align: center;
+}
+.countdown-show1 .countdown-section {
+	width: 98%;
+}
+.countdown-show2 .countdown-section {
+	width: 48%;
+}
+.countdown-show3 .countdown-section {
+	width: 32.5%;
+}
+.countdown-show4 .countdown-section {
+	width: 24.5%;
+}
+.countdown-show5 .countdown-section {
+	width: 19.5%;
+}
+.countdown-show6 .countdown-section {
+	width: 16.25%;
+}
+.countdown-show7 .countdown-section {
+	width: 14%;
+}
+.countdown-section {
+	display: block;
+	float: left;
+    text-align: center;
+}
+.countdown-amount {
+    color: #152026;
+    font: 500 74px / 28px GothamPro;
+}
+
+.countdown-amount:after {
+content: ':';
+   position: relative;
+    top: -10px;
+    left: 11px;
+}
+.countdown-row .countdown-section:last-of-type  .countdown-amount:after {
+display: none;
+}
+
+.countdown-row .countdown-section:last-of-type   {
+margin-left: -10px;
+}
+
+.countdown-row .countdown-section:nth-of-type(2)  .countdown-period {
+margin-left: -20px;
+}
+.countdown-row .countdown-section:nth-of-type(3)  .countdown-period {
+margin-left: -10px;
+}
+.countdown-period {
+    display: block;
+    color: #152026;
+    font: 500 18px / 28px GothamPro;
+}
