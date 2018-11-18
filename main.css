@@ -307,6 +307,7 @@ body {
 #head {
     background-image: url("head.jpg");
     background-position: center center;
+    height: 400px;
 }
 
 .town {}
@@ -715,7 +716,7 @@ position: absolute;
 
 #number ul {
     display: block;
-    width: 710px;
+    width: 790px;
     margin: auto;
     margin-top: 34px;
     margin-bottom: 45px;
