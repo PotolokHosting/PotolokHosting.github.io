@@ -313,7 +313,7 @@ body {
 .town {}
 
 .logo_head {
-background: url("logo.png") no-repeat;
+background: url("logo_4.png") no-repeat;
     background-size: contain;
     width: 500px;
     height: 65px;
@@ -375,7 +375,7 @@ background: url("logo.png") no-repeat;
 
 .head {
     color: #152026;
-    font: 300 14px / 20px GothamPro;
+    font: bold 18px / 20px GothamPro;
     width: 178px;
     float: left;
     text-align: center;
@@ -1001,7 +1001,7 @@ position: absolute;
 #types .types_box {
     background: #fff;
     padding-top: 50px;
-    padding-bottom: 54px;
+    margin-bottom: 54px;
 }
 
 #types .types_box h3 {
@@ -2327,7 +2327,7 @@ width: 81px;
 }
 
 .logo_footer {
-    background: url("logo.png") no-repeat;
+    background: url("logo_4.png") no-repeat;
     width: 500px;
     height: 65px;
     -webkit-background-size: contain;
@@ -2390,7 +2390,7 @@ width: 81px;
 
 .footer_p {
     color: #152026;
-    font: 300 14px / 20px GothamPro;
+    font: bold 18px / 20px GothamPro;
     width: 178px;
     float: right;
     text-align: center;
