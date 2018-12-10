@@ -975,9 +975,9 @@ position: absolute;
 }
 
 #akcia .acia_foto {
-    background: url("sale25.png");
+    background: url("sale_img.png");
     background-size: cover;
-    width: 247px;
+    width: 420px;
     height: 252px;
     position: absolute;
     bottom: 110px;
@@ -1268,7 +1268,7 @@ position: absolute;
 
 #resalt .box_resalt {
     width: 1000px;
-    height: 787px;
+    height: 600px;
     box-sizing: border-box;
     border: 15px #dfdae8 solid;
     position: relative;
