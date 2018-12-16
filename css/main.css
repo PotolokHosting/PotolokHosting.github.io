@@ -321,7 +321,7 @@ background: url("logo_4.png") no-repeat;
     padding-left: 260px;
     margin-top: 21px;
     color: #152026;
-    font: 300 18px / 20px GothamPro;
+    font: 300 25px / 20px GothamPro;
     float: left;
 }
 
@@ -2336,15 +2336,14 @@ width: 81px;
     padding-left: 264px;
     margin-top: 31px;
     color: #152026;
-    font: 300 18px / 20px GothamPro;
+    font: 300 25px / 20px GothamPro;
     float: left;
-    margin-bottom: 70px;
 }
 
 .contact_footer {
     float: right;
     text-align: right;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 .tel_footer {
@@ -2428,7 +2427,7 @@ width: 81px;
 
 #under_footer {
     background: #152026;
-    min-height: 45px;
+    min-height: 10px;
 }
 
 #under_footer p {
