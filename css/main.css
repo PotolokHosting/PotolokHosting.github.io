@@ -305,15 +305,19 @@ body {
 }
 
 #head {
-    background-image: url("head.jpg");
+    background-image: url("head3.jpg");
     background-position: center center;
     height: 400px;
 }
 
 .town {}
 
+.color-text {
+    color: #FFB600 !important;
+}
+
 .logo_head {
-background: url("logo_4.png") no-repeat;
+background: url("logo_5.png") no-repeat;
     background-size: contain;
     width: 500px;
     height: 65px;
